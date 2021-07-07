@@ -4,7 +4,7 @@
  ###  Currently pursuing my B-tech in **Computer Science and Engineering** 💻 from **Calcutta Institue of Engineering and Management**. Enthusiast, Fun Loving and Cheerfull learner, trying to explore new things and develop myself each day. Looking forward to rectify all the errors of my life.  
 
 
-- 🔭 I'm highly interested in **Android and Web Development**
+- 🔭 I'm highly interested in **Machine Learning, Android and Web Development**
 - 👯 I’m looking to collaborate on: **Cool, fun projects surrounding App Development**
 - 📫 How to reach me: **mailme.anwesha.ghosh@gmail.com**
 - 😄 Pronouns: **She/Her**
